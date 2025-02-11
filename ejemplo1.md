@@ -1,5 +1,3 @@
-Aquí tienes un segundo ejemplo con una estructura similar para que los estudiantes practiquen antes del quiz.
-
 Gestión de Clínica Dental
 
 Contexto del Negocio
